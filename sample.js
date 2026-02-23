@@ -1,3 +1,3 @@
 console.log("It's my sample !!");
 console.log("This is to study git commands");
-console.log("Version 1");
+console.log("Version 2");
